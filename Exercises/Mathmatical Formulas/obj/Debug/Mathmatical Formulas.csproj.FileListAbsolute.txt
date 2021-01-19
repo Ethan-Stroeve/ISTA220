@@ -1,0 +1,7 @@
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Mathmatical Formulas\bin\Debug\Mathmatical Formulas.exe.config
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Mathmatical Formulas\bin\Debug\Mathmatical Formulas.exe
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Mathmatical Formulas\bin\Debug\Mathmatical Formulas.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Mathmatical Formulas\obj\Debug\Mathmatical Formulas.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Mathmatical Formulas\obj\Debug\Mathmatical Formulas.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Mathmatical Formulas\obj\Debug\Mathmatical Formulas.exe
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Mathmatical Formulas\obj\Debug\Mathmatical Formulas.pdb

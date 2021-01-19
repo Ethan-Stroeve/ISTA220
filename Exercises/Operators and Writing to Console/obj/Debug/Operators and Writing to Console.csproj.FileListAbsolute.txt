@@ -1,0 +1,7 @@
+C:\Users\ethan\source\repos\Operators and Writing to Console\bin\Debug\Operators and Writing to Console.exe.config
+C:\Users\ethan\source\repos\Operators and Writing to Console\bin\Debug\Operators and Writing to Console.exe
+C:\Users\ethan\source\repos\Operators and Writing to Console\bin\Debug\Operators and Writing to Console.pdb
+C:\Users\ethan\source\repos\Operators and Writing to Console\obj\Debug\Operators and Writing to Console.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Operators and Writing to Console\obj\Debug\Operators and Writing to Console.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Operators and Writing to Console\obj\Debug\Operators and Writing to Console.exe
+C:\Users\ethan\source\repos\Operators and Writing to Console\obj\Debug\Operators and Writing to Console.pdb

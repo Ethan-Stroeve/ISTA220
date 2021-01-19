@@ -1,0 +1,7 @@
+C:\Users\ethan\MSSA2021\ISTA220\Homework\TestHello\TestHello\bin\Debug\TestHello.exe.config
+C:\Users\ethan\MSSA2021\ISTA220\Homework\TestHello\TestHello\bin\Debug\TestHello.exe
+C:\Users\ethan\MSSA2021\ISTA220\Homework\TestHello\TestHello\bin\Debug\TestHello.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Homework\TestHello\TestHello\obj\Debug\TestHello.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\ISTA220\Homework\TestHello\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Homework\TestHello\TestHello\obj\Debug\TestHello.exe
+C:\Users\ethan\MSSA2021\ISTA220\Homework\TestHello\TestHello\obj\Debug\TestHello.pdb
