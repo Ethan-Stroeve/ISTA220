@@ -1,0 +1,24 @@
+1) the difference between deep and shallow copy is deep copy copies the refrence to a field 
+and shallow copy copies the refrence
+
+2) the value of a reference after we declear it is whatever the address that reference contains.
+
+3) by giving a value type a name and optionally using the assignment operator to give it a value.
+
+4) assign a variable to a new method.
+
+5) No you can't assign null to a value type unless you use a ?.
+
+6) you cannot assign a nullable value type to a non nullable value type.
+
+7) stack provides memory for a methods parameters and local variable. heap provides memory for objects
+
+8) A specialized type is a type that the user does not know what is going on behind the scenes.
+
+9) ref passes a refrence to the actual argument rather than a copy of the argument
+
+10) out initializes itself  the parameter.
+
+11) Allows you to convert data types from value types to reference types
+
+12) cast makes sure it is safe to convert one item type to another before its done

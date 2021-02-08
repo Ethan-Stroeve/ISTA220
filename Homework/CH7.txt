@@ -1,0 +1,28 @@
+1) class is a classification where you systematically arrange information and behavior into a meaningful entity.
+ is also a type.
+
+2) the two purposes of encapsulation are to combine methods and data within a class; in other words to support classificatiom
+ and the second is to control the accessibility of the methods and data; in other words, to control the use of the class. 
+
+3) new keyword instantiates the class-- goes to heap and allocates enough memory for the type than stores the address in the variable.
+
+4) private is the defualt access for fields and methods of a class. to change it from default write the key word public before its declaration
+
+5) public circle()
+
+6) class fields and methods store data that is shared by all instances. declare class followed by the name
+
+7) you would bring a static class in scope by calling it by name you would do this to use the class 
+
+8) it may be good to use anonymous class for sevurity reason or to keep user data private. 
+ anonymous class is an unnamed user class that the compiler creates a name for and doesn't tell the user.
+
+9)polymorphism as used in computer science means behavior varies depending on the type of the variable 
+
+10) message passing is the way we think of objects communicating.
+ Tells the outcome desired but not how to do it.
+
+11) simula is the first object-oriented programming language
+
+12) alexander stephanov is the primary designer and implementer of the c++ standard template library 
+and advocate for generic programming.

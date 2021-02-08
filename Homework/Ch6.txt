@@ -1,0 +1,21 @@
+1) an error that causes the program to crash
+
+2) code runs normally
+
+3) program is terminated/throws with unhandled ecxeption
+
+4) program will look for other catch blockes with a matching exception block if none program terminates
+
+5) exception all exception fall under it and will be catched if happended
+
+6) in the debug menu
+
+7)to force a throwexception if the value entered is outside what the value can hold
+
+8)-2,147,483,648 to 2,147,483,647 (min/max)
+
+9)0 to 4,294,967,295 unsigned can hold zero and positive numbers and signed can hold negative zero and positive, yes
+
+10) it always executes the code within, can follow try or catch statement
+
+11) when you dont want anything to run anything after the try/catch executes, save memory?
