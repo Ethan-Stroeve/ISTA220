@@ -1,0 +1,13 @@
+C:\Users\ethan\MSSA2021\CSharp\CH3Recur\bin\Debug\netcoreapp3.1\CH3Recur.exe
+C:\Users\ethan\MSSA2021\CSharp\CH3Recur\bin\Debug\netcoreapp3.1\CH3Recur.deps.json
+C:\Users\ethan\MSSA2021\CSharp\CH3Recur\bin\Debug\netcoreapp3.1\CH3Recur.runtimeconfig.json
+C:\Users\ethan\MSSA2021\CSharp\CH3Recur\bin\Debug\netcoreapp3.1\CH3Recur.runtimeconfig.dev.json
+C:\Users\ethan\MSSA2021\CSharp\CH3Recur\bin\Debug\netcoreapp3.1\CH3Recur.dll
+C:\Users\ethan\MSSA2021\CSharp\CH3Recur\bin\Debug\netcoreapp3.1\CH3Recur.pdb
+C:\Users\ethan\MSSA2021\CSharp\CH3Recur\obj\Debug\netcoreapp3.1\CH3Recur.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\CSharp\CH3Recur\obj\Debug\netcoreapp3.1\CH3Recur.AssemblyInfoInputs.cache
+C:\Users\ethan\MSSA2021\CSharp\CH3Recur\obj\Debug\netcoreapp3.1\CH3Recur.AssemblyInfo.cs
+C:\Users\ethan\MSSA2021\CSharp\CH3Recur\obj\Debug\netcoreapp3.1\CH3Recur.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\CSharp\CH3Recur\obj\Debug\netcoreapp3.1\CH3Recur.dll
+C:\Users\ethan\MSSA2021\CSharp\CH3Recur\obj\Debug\netcoreapp3.1\CH3Recur.pdb
+C:\Users\ethan\MSSA2021\CSharp\CH3Recur\obj\Debug\netcoreapp3.1\CH3Recur.genruntimeconfig.cache

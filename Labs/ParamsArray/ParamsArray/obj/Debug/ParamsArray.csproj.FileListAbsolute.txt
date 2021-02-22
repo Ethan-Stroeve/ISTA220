@@ -1,0 +1,14 @@
+C:\Users\ethan\MSSA2021\VCSBS\Chapter 11\ParamsArray\ParamsArray\bin\Debug\ParamsArray.exe.config
+C:\Users\ethan\MSSA2021\VCSBS\Chapter 11\ParamsArray\ParamsArray\bin\Debug\ParamsArray.exe
+C:\Users\ethan\MSSA2021\VCSBS\Chapter 11\ParamsArray\ParamsArray\bin\Debug\ParamsArray.pdb
+C:\Users\ethan\MSSA2021\VCSBS\Chapter 11\ParamsArray\ParamsArray\obj\Debug\ParamsArray.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\VCSBS\Chapter 11\ParamsArray\ParamsArray\obj\Debug\ParamsArray.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\VCSBS\Chapter 11\ParamsArray\ParamsArray\obj\Debug\ParamsArray.exe
+C:\Users\ethan\MSSA2021\VCSBS\Chapter 11\ParamsArray\ParamsArray\obj\Debug\ParamsArray.pdb
+C:\Users\ethan\MSSA2021\CSharp\ParamsArray\ParamsArray\bin\Debug\ParamsArray.exe.config
+C:\Users\ethan\MSSA2021\CSharp\ParamsArray\ParamsArray\bin\Debug\ParamsArray.exe
+C:\Users\ethan\MSSA2021\CSharp\ParamsArray\ParamsArray\bin\Debug\ParamsArray.pdb
+C:\Users\ethan\MSSA2021\CSharp\ParamsArray\ParamsArray\obj\Debug\ParamsArray.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\CSharp\ParamsArray\ParamsArray\obj\Debug\ParamsArray.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\CSharp\ParamsArray\ParamsArray\obj\Debug\ParamsArray.exe
+C:\Users\ethan\MSSA2021\CSharp\ParamsArray\ParamsArray\obj\Debug\ParamsArray.pdb

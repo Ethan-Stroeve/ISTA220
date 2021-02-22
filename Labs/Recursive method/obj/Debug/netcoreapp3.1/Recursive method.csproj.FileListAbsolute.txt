@@ -1,0 +1,13 @@
+C:\Users\ethan\MSSA2021\CSharp\Recursive method\bin\Debug\netcoreapp3.1\Recursive method.exe
+C:\Users\ethan\MSSA2021\CSharp\Recursive method\bin\Debug\netcoreapp3.1\Recursive method.deps.json
+C:\Users\ethan\MSSA2021\CSharp\Recursive method\bin\Debug\netcoreapp3.1\Recursive method.runtimeconfig.json
+C:\Users\ethan\MSSA2021\CSharp\Recursive method\bin\Debug\netcoreapp3.1\Recursive method.runtimeconfig.dev.json
+C:\Users\ethan\MSSA2021\CSharp\Recursive method\bin\Debug\netcoreapp3.1\Recursive method.dll
+C:\Users\ethan\MSSA2021\CSharp\Recursive method\bin\Debug\netcoreapp3.1\Recursive method.pdb
+C:\Users\ethan\MSSA2021\CSharp\Recursive method\obj\Debug\netcoreapp3.1\Recursive method.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\CSharp\Recursive method\obj\Debug\netcoreapp3.1\Recursive method.AssemblyInfoInputs.cache
+C:\Users\ethan\MSSA2021\CSharp\Recursive method\obj\Debug\netcoreapp3.1\Recursive method.AssemblyInfo.cs
+C:\Users\ethan\MSSA2021\CSharp\Recursive method\obj\Debug\netcoreapp3.1\Recursive method.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\CSharp\Recursive method\obj\Debug\netcoreapp3.1\Recursive method.dll
+C:\Users\ethan\MSSA2021\CSharp\Recursive method\obj\Debug\netcoreapp3.1\Recursive method.pdb
+C:\Users\ethan\MSSA2021\CSharp\Recursive method\obj\Debug\netcoreapp3.1\Recursive method.genruntimeconfig.cache

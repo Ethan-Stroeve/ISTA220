@@ -1,0 +1,7 @@
+C:\Users\ethan\MSSA2021\CSharp\DailyRate Using Optional Parameters\DailyRate\bin\Debug\DailyRate.exe.config
+C:\Users\ethan\MSSA2021\CSharp\DailyRate Using Optional Parameters\DailyRate\bin\Debug\DailyRate.exe
+C:\Users\ethan\MSSA2021\CSharp\DailyRate Using Optional Parameters\DailyRate\bin\Debug\DailyRate.pdb
+C:\Users\ethan\MSSA2021\CSharp\DailyRate Using Optional Parameters\DailyRate\obj\Debug\DailyRate.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\CSharp\DailyRate Using Optional Parameters\DailyRate\obj\Debug\DailyRate.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\CSharp\DailyRate Using Optional Parameters\DailyRate\obj\Debug\DailyRate.exe
+C:\Users\ethan\MSSA2021\CSharp\DailyRate Using Optional Parameters\DailyRate\obj\Debug\DailyRate.pdb

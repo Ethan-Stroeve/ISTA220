@@ -1,0 +1,7 @@
+C:\Users\ethan\MSSA2021\CSharp\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe.config
+C:\Users\ethan\MSSA2021\CSharp\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe
+C:\Users\ethan\MSSA2021\CSharp\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.pdb
+C:\Users\ethan\MSSA2021\CSharp\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\CSharp\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\CSharp\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.exe
+C:\Users\ethan\MSSA2021\CSharp\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.pdb

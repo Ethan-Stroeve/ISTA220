@@ -1,0 +1,13 @@
+C:\Users\ethan\MSSA2021\CSharp\Recurssionlab\bin\Debug\netcoreapp3.1\Recurssionlab.exe
+C:\Users\ethan\MSSA2021\CSharp\Recurssionlab\bin\Debug\netcoreapp3.1\Recurssionlab.deps.json
+C:\Users\ethan\MSSA2021\CSharp\Recurssionlab\bin\Debug\netcoreapp3.1\Recurssionlab.runtimeconfig.json
+C:\Users\ethan\MSSA2021\CSharp\Recurssionlab\bin\Debug\netcoreapp3.1\Recurssionlab.runtimeconfig.dev.json
+C:\Users\ethan\MSSA2021\CSharp\Recurssionlab\bin\Debug\netcoreapp3.1\Recurssionlab.dll
+C:\Users\ethan\MSSA2021\CSharp\Recurssionlab\bin\Debug\netcoreapp3.1\Recurssionlab.pdb
+C:\Users\ethan\MSSA2021\CSharp\Recurssionlab\obj\Debug\netcoreapp3.1\Recurssionlab.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\CSharp\Recurssionlab\obj\Debug\netcoreapp3.1\Recurssionlab.AssemblyInfoInputs.cache
+C:\Users\ethan\MSSA2021\CSharp\Recurssionlab\obj\Debug\netcoreapp3.1\Recurssionlab.AssemblyInfo.cs
+C:\Users\ethan\MSSA2021\CSharp\Recurssionlab\obj\Debug\netcoreapp3.1\Recurssionlab.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\CSharp\Recurssionlab\obj\Debug\netcoreapp3.1\Recurssionlab.dll
+C:\Users\ethan\MSSA2021\CSharp\Recurssionlab\obj\Debug\netcoreapp3.1\Recurssionlab.pdb
+C:\Users\ethan\MSSA2021\CSharp\Recurssionlab\obj\Debug\netcoreapp3.1\Recurssionlab.genruntimeconfig.cache

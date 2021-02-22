@@ -1,0 +1,1 @@
+C:\Users\ethan\MSSA2021\CSharp\Selection\Selection\Selection.csproj;x86

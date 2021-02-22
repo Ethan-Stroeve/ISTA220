@@ -1,0 +1,7 @@
+C:\Users\ethan\MSSA2021\VCSBS\Chapter 7\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\ethan\MSSA2021\VCSBS\Chapter 7\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\ethan\MSSA2021\VCSBS\Chapter 7\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\ethan\MSSA2021\VCSBS\Chapter 7\Classes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\VCSBS\Chapter 7\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\VCSBS\Chapter 7\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\ethan\MSSA2021\VCSBS\Chapter 7\Classes\Classes\obj\Debug\Classes.pdb
