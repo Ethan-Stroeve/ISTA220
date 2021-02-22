@@ -1,0 +1,13 @@
+C:\Users\ethan\MSSA2021\CSharp\EX6Arrays\bin\Debug\netcoreapp3.1\EX6Arrays.exe
+C:\Users\ethan\MSSA2021\CSharp\EX6Arrays\bin\Debug\netcoreapp3.1\EX6Arrays.deps.json
+C:\Users\ethan\MSSA2021\CSharp\EX6Arrays\bin\Debug\netcoreapp3.1\EX6Arrays.runtimeconfig.json
+C:\Users\ethan\MSSA2021\CSharp\EX6Arrays\bin\Debug\netcoreapp3.1\EX6Arrays.runtimeconfig.dev.json
+C:\Users\ethan\MSSA2021\CSharp\EX6Arrays\bin\Debug\netcoreapp3.1\EX6Arrays.dll
+C:\Users\ethan\MSSA2021\CSharp\EX6Arrays\bin\Debug\netcoreapp3.1\EX6Arrays.pdb
+C:\Users\ethan\MSSA2021\CSharp\EX6Arrays\obj\Debug\netcoreapp3.1\EX6Arrays.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\CSharp\EX6Arrays\obj\Debug\netcoreapp3.1\EX6Arrays.AssemblyInfoInputs.cache
+C:\Users\ethan\MSSA2021\CSharp\EX6Arrays\obj\Debug\netcoreapp3.1\EX6Arrays.AssemblyInfo.cs
+C:\Users\ethan\MSSA2021\CSharp\EX6Arrays\obj\Debug\netcoreapp3.1\EX6Arrays.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\CSharp\EX6Arrays\obj\Debug\netcoreapp3.1\EX6Arrays.dll
+C:\Users\ethan\MSSA2021\CSharp\EX6Arrays\obj\Debug\netcoreapp3.1\EX6Arrays.pdb
+C:\Users\ethan\MSSA2021\CSharp\EX6Arrays\obj\Debug\netcoreapp3.1\EX6Arrays.genruntimeconfig.cache

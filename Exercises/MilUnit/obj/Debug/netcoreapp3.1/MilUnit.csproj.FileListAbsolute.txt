@@ -1,0 +1,13 @@
+C:\Users\ethan\MSSA2021\CSharp\MilUnit\obj\Debug\netcoreapp3.1\MilUnit.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\CSharp\MilUnit\obj\Debug\netcoreapp3.1\MilUnit.AssemblyInfoInputs.cache
+C:\Users\ethan\MSSA2021\CSharp\MilUnit\obj\Debug\netcoreapp3.1\MilUnit.AssemblyInfo.cs
+C:\Users\ethan\MSSA2021\CSharp\MilUnit\obj\Debug\netcoreapp3.1\MilUnit.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\CSharp\MilUnit\bin\Debug\netcoreapp3.1\MilUnit.exe
+C:\Users\ethan\MSSA2021\CSharp\MilUnit\bin\Debug\netcoreapp3.1\MilUnit.deps.json
+C:\Users\ethan\MSSA2021\CSharp\MilUnit\bin\Debug\netcoreapp3.1\MilUnit.runtimeconfig.json
+C:\Users\ethan\MSSA2021\CSharp\MilUnit\bin\Debug\netcoreapp3.1\MilUnit.runtimeconfig.dev.json
+C:\Users\ethan\MSSA2021\CSharp\MilUnit\bin\Debug\netcoreapp3.1\MilUnit.dll
+C:\Users\ethan\MSSA2021\CSharp\MilUnit\bin\Debug\netcoreapp3.1\MilUnit.pdb
+C:\Users\ethan\MSSA2021\CSharp\MilUnit\obj\Debug\netcoreapp3.1\MilUnit.dll
+C:\Users\ethan\MSSA2021\CSharp\MilUnit\obj\Debug\netcoreapp3.1\MilUnit.pdb
+C:\Users\ethan\MSSA2021\CSharp\MilUnit\obj\Debug\netcoreapp3.1\MilUnit.genruntimeconfig.cache

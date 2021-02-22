@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cDuLnuAUVsJrECle4YQPzvvJDiKMvyT9v9yPjm9p8Rviyqnj5gRXbQVytBUqgznNipH9lv5YzQEPtyc4WwMxmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ethan\\MSSA2021\\CSharp\\Exercise4AF\\Exercise4AF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ethan\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

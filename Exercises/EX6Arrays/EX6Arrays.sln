@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EX6Arrays", "EX6Arrays.csproj", "{71EABAB3-A1D9-4A1B-9A7A-98C993F78B13}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4FED5696-D8F4-493B-A2F3-A04C29DF934E}"
+	ProjectSection(SolutionItems) = preProject
+		Part1.cs = Part1.cs
+		Part3.cs = Part3.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71EABAB3-A1D9-4A1B-9A7A-98C993F78B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EABAB3-A1D9-4A1B-9A7A-98C993F78B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EABAB3-A1D9-4A1B-9A7A-98C993F78B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EABAB3-A1D9-4A1B-9A7A-98C993F78B13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D23434C-C489-49F4-8EE4-46456121D653}
+	EndGlobalSection
+EndGlobal
