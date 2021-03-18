@@ -1,0 +1,12 @@
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\InClassEX\bin\Debug\netcoreapp3.1\InClassEX.exe
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\InClassEX\bin\Debug\netcoreapp3.1\InClassEX.deps.json
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\InClassEX\bin\Debug\netcoreapp3.1\InClassEX.runtimeconfig.json
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\InClassEX\bin\Debug\netcoreapp3.1\InClassEX.runtimeconfig.dev.json
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\InClassEX\bin\Debug\netcoreapp3.1\InClassEX.dll
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\InClassEX\bin\Debug\netcoreapp3.1\InClassEX.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\InClassEX\obj\Debug\netcoreapp3.1\InClassEX.AssemblyInfoInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\InClassEX\obj\Debug\netcoreapp3.1\InClassEX.AssemblyInfo.cs
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\InClassEX\obj\Debug\netcoreapp3.1\InClassEX.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\InClassEX\obj\Debug\netcoreapp3.1\InClassEX.dll
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\InClassEX\obj\Debug\netcoreapp3.1\InClassEX.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\InClassEX\obj\Debug\netcoreapp3.1\InClassEX.genruntimeconfig.cache

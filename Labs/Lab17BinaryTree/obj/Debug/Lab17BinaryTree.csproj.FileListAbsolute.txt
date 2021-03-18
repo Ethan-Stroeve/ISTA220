@@ -1,0 +1,6 @@
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab17BinaryTree\bin\Debug\Lab17BinaryTree.dll
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab17BinaryTree\bin\Debug\Lab17BinaryTree.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab17BinaryTree\obj\Debug\Lab17BinaryTree.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab17BinaryTree\obj\Debug\Lab17BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab17BinaryTree\obj\Debug\Lab17BinaryTree.dll
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab17BinaryTree\obj\Debug\Lab17BinaryTree.pdb

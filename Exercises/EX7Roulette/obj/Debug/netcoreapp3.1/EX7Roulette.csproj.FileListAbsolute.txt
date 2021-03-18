@@ -1,0 +1,13 @@
+C:\Users\ethan\source\repos\EX7Roulette\bin\Debug\netcoreapp3.1\EX7Roulette.exe
+C:\Users\ethan\source\repos\EX7Roulette\bin\Debug\netcoreapp3.1\EX7Roulette.deps.json
+C:\Users\ethan\source\repos\EX7Roulette\bin\Debug\netcoreapp3.1\EX7Roulette.runtimeconfig.json
+C:\Users\ethan\source\repos\EX7Roulette\bin\Debug\netcoreapp3.1\EX7Roulette.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\EX7Roulette\bin\Debug\netcoreapp3.1\EX7Roulette.dll
+C:\Users\ethan\source\repos\EX7Roulette\bin\Debug\netcoreapp3.1\EX7Roulette.pdb
+C:\Users\ethan\source\repos\EX7Roulette\obj\Debug\netcoreapp3.1\EX7Roulette.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\EX7Roulette\obj\Debug\netcoreapp3.1\EX7Roulette.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\EX7Roulette\obj\Debug\netcoreapp3.1\EX7Roulette.AssemblyInfo.cs
+C:\Users\ethan\source\repos\EX7Roulette\obj\Debug\netcoreapp3.1\EX7Roulette.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\EX7Roulette\obj\Debug\netcoreapp3.1\EX7Roulette.dll
+C:\Users\ethan\source\repos\EX7Roulette\obj\Debug\netcoreapp3.1\EX7Roulette.pdb
+C:\Users\ethan\source\repos\EX7Roulette\obj\Debug\netcoreapp3.1\EX7Roulette.genruntimeconfig.cache

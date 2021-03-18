@@ -1,0 +1,24 @@
+1) Parameter arrays are useful for writing methods that can take any number of arguments,
+possibly of different types, as parameters. 
+
+2) to define a method that takes an arbitrary number of arguments you can use the params keyword
+EX:  public static int min(params int[] paramlist)
+
+3) to call a method with a arbitrary number of arguments you pass any amount of parameters that you want
+EX: int min = util.min(First, Second);
+
+4) you cant use params key word with multidimensional arrays .
+
+5) A method can have any amount of parameters.
+
+6) parameter arguments can be of any type.
+
+7) a method that takes optional parameters still has a fixed parameter list because the compiler generates code
+that inserts default data. A method that uses a parameter array effectly has a completely arbitrary list of 
+parameters and none of them has a default value.
+
+8) public static void Hole(params object[] paramlist
+ 
+9) someType method(params bool[] flags)
+
+10) someType method(params object[] paramList)

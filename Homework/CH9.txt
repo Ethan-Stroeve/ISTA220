@@ -1,0 +1,26 @@
+1) A enum or enumeration is values limited to a set of symbolic names
+
+2) enum Ranks { Private, specialist, sergeant, sergeant first class, master sgt firstsgt, sgm, csgm}
+
+3) Ranks Ethan = Ranks.sergeant; Ranks cline = Ranks.specialist;
+
+4)  console.writeline((int)cline);
+
+5) to select type of a enum use : followed by type 
+enum example : long { a, b, c}
+
+6) a struct is a value type stored on the stack.
+
+7) classes define refrences that are created on the heap vs struck being on the stack, struck cannot have a default 
+constructor, struck sets defualt fields to 0, false, null. classes can initilize instance fields structs cannot
+
+8) structs are stored on the stack 
+
+9)Int32 Struct fields are minvalue, maxvalue. the methods are compareto, equals, gethash(or type)code, parse, tostring
+tryparse and tryformat
+10) struct Dod {Army, Marines, Navy, AirForce}
+
+11) you cannot create a defualt constructor for a struct because the compiler auto generates a defualt constructor
+
+12) CIL is the common intermediate language, its converts your code to pseudo-machine code stored on the assembly
+the clr converts the cil intstructions into real machine instructions that the processor can understand

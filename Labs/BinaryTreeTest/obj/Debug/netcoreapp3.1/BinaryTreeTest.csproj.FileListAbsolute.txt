@@ -1,0 +1,16 @@
+C:\Users\ethan\MSSA2021\ISTA220\Labs\BinaryTreeTest\bin\Debug\netcoreapp3.1\BinaryTreeTest.exe
+C:\Users\ethan\MSSA2021\ISTA220\Labs\BinaryTreeTest\bin\Debug\netcoreapp3.1\BinaryTreeTest.deps.json
+C:\Users\ethan\MSSA2021\ISTA220\Labs\BinaryTreeTest\bin\Debug\netcoreapp3.1\BinaryTreeTest.runtimeconfig.json
+C:\Users\ethan\MSSA2021\ISTA220\Labs\BinaryTreeTest\bin\Debug\netcoreapp3.1\BinaryTreeTest.runtimeconfig.dev.json
+C:\Users\ethan\MSSA2021\ISTA220\Labs\BinaryTreeTest\bin\Debug\netcoreapp3.1\BinaryTreeTest.dll
+C:\Users\ethan\MSSA2021\ISTA220\Labs\BinaryTreeTest\bin\Debug\netcoreapp3.1\BinaryTreeTest.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Labs\BinaryTreeTest\bin\Debug\netcoreapp3.1\Lab17BinaryTree.dll
+C:\Users\ethan\MSSA2021\ISTA220\Labs\BinaryTreeTest\bin\Debug\netcoreapp3.1\Lab17BinaryTree.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Labs\BinaryTreeTest\obj\Debug\netcoreapp3.1\BinaryTreeTest.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\ISTA220\Labs\BinaryTreeTest\obj\Debug\netcoreapp3.1\BinaryTreeTest.AssemblyInfoInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Labs\BinaryTreeTest\obj\Debug\netcoreapp3.1\BinaryTreeTest.AssemblyInfo.cs
+C:\Users\ethan\MSSA2021\ISTA220\Labs\BinaryTreeTest\obj\Debug\netcoreapp3.1\BinaryTreeTest.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Labs\BinaryTreeTest\obj\Debug\netcoreapp3.1\BinaryTreeTest.csproj.CopyComplete
+C:\Users\ethan\MSSA2021\ISTA220\Labs\BinaryTreeTest\obj\Debug\netcoreapp3.1\BinaryTreeTest.dll
+C:\Users\ethan\MSSA2021\ISTA220\Labs\BinaryTreeTest\obj\Debug\netcoreapp3.1\BinaryTreeTest.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Labs\BinaryTreeTest\obj\Debug\netcoreapp3.1\BinaryTreeTest.genruntimeconfig.cache

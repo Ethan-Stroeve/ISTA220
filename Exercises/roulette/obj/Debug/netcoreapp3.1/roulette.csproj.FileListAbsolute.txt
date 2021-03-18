@@ -1,0 +1,13 @@
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\roulette\bin\Debug\netcoreapp3.1\roulette.exe
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\roulette\bin\Debug\netcoreapp3.1\roulette.deps.json
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\roulette\bin\Debug\netcoreapp3.1\roulette.runtimeconfig.json
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\roulette\bin\Debug\netcoreapp3.1\roulette.runtimeconfig.dev.json
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\roulette\bin\Debug\netcoreapp3.1\roulette.dll
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\roulette\bin\Debug\netcoreapp3.1\roulette.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\roulette\obj\Debug\netcoreapp3.1\roulette.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\roulette\obj\Debug\netcoreapp3.1\roulette.AssemblyInfoInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\roulette\obj\Debug\netcoreapp3.1\roulette.AssemblyInfo.cs
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\roulette\obj\Debug\netcoreapp3.1\roulette.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\roulette\obj\Debug\netcoreapp3.1\roulette.dll
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\roulette\obj\Debug\netcoreapp3.1\roulette.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\roulette\obj\Debug\netcoreapp3.1\roulette.genruntimeconfig.cache

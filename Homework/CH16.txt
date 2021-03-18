@@ -1,0 +1,40 @@
+1) 5 examples of bitwise operators are not(~) left-shift(<<) or(|) and(&) xor(^)
+
+2) Yes right shift is a operator implemented by c#. uint y = x >> 2;
+
+3) bits & (1 << index); this left shifts and then a and operation returns a bit at postion 6
+(1<<index) =00100000
+
+4) bits |= (1 << index); this does a left shift within the parenthesis before doing a |= operator
+
+5) bits &= (1 << index); this does a left shift within the parenthesis before doing a and equals operator
+
+6) C# interprets bool peek = bits[n]; as a call to the get accessor of that index
+
+7) C# interprets bits[n] = true; as a set accessor of that index 
+
+8) C# interprets bits[n] ^= true; as both a get and set accessor 
+
+9) Assume that users were assigned read, write, and execute permissions according to this scheme: read
+= 1, write = 2, execute = 4. How would you interpret the following user permissions:
+(a) permission = 0 -- no permissions
+(b) permission = 1 -- can read
+(c) permission = 2 -- can write
+(d) permission = 3 -- can read and write
+(e) permission = 4 -- can execute
+(f) permission = 5 -- can execute and read
+(g) permission = 6 -- can execute and write
+(h) permission = 7 -- can execute, write and read
+
+10) Answer the previous question by converting the decimal permissions into binary permissions. What
+does this tell you about using this shceme of permissions?
+(a) permission = 0 -- 0000
+(b) permission = 1 -- 0001
+(c) permission = 2 -- 0010
+(d) permission = 3 -- 0011
+(e) permission = 4 -- 0100
+(f) permission = 5 -- 0101
+(g) permission = 6 -- 0110
+(h) permission = 7 -- 0111
+
+This can help illustrate permissions when you think of the number and placement as a representation of the permission.

@@ -1,0 +1,27 @@
+1) The key difference between field and property in C# is that a field is a variable of any type that is declared 
+directly in the class while property is a member that provides a mechanism to read, write or compute 
+the value of a private field.
+
+2) A Method does some action which affects the application, and may return a result. A Property is a value which can
+be set or returned, but does not do anything.
+
+3) Encapsulation is defined as the wrapping up of data under a single unit. It is the mechanism that binds together 
+code and the data it manipulates. In a different way, encapsulation is a protective shield that prevents the data 
+from being accessed by the code outside this shield.
+
+4) In C# it is common for public accessible methods and fields to have the first letter of its name capitilized
+and private methods and fields to have lower case for its first letter in the name. This can be troublesome as user
+errors could easily happen.
+
+5) write-only property can be used for passwords or any information you wish to keep secure and unchanged. 
+A read-only property value cannot be changed and only viewed this is useful for any data you wish to keep unchanged.
+
+6) you may set getters and setters to prevent future public access and if you want an auto-implemented property to be read-only, 
+you must use private setters.
+
+7)the restrictions on the use of properties are that you can assign a value to a property only after it has been initialized,
+you can't use it as a refernce or an out argument, can only contain one get and set, cannot contain other methods, fields,
+or properties, the get and set accessors cannot contain parameters and you cant contain properties by using const.
+
+8) Object initializers let you assign values to any accessible fields or properties of an object.
+  Example EX1 = new Example { value = 1};

@@ -1,0 +1,24 @@
+1) an array in memory stays together contiguously(touching). 
+
+2) memory is allocated on the heap for an array.
+
+3) memory is allocated on the stack for an array reference.
+
+4) the value type of what an array can hold is based on what value type you refrence when initilizing it
+it is possible to refrence objects of different value types.
+
+5) foreach (){code} foreach iterates throught the entire array, iterates 0 to length -1
+
+6) to make a deep copy of an array you need to create a new array instance of the same type and length
+then you need to copy the data from the original array can use arrayname.copyTo, new array{arrayname.length}/clone 
+
+7)  the differnnce in syntax for multi-dimensional arrray is to add a second index value within the []
+exp int[] items = new int [1,4]
+
+8) the differnce between multi-dimensionalarrays and array of arrays is that array of arrays allow you to set the number
+of columns per row instead of having a fixed amount. synatx use [][]
+
+9) to flatten a multidimensional array you would need to 
+
+10) foreach cannot change the value of the array elements inside the loop because  
+

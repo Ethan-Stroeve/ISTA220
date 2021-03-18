@@ -1,0 +1,30 @@
+1) inheritance promotes the principle of don't repeat yourself because it consolidates common code
+
+2) to define a deried class that inherits a base class the first class followed the name and a colon then the class its derived from
+
+3) all user defined types inherit base classes from system
+
+4) if you dont have a defualt constructor in a base class when you creating a derived class, you get a compile time error
+
+5) Yes you can  assign a variable of a derived class to another variable of its base class, because it will inherit the value.
+
+6) no you Cannot assign a variable of a derived class to another variable of of a derived class of its base class because they are from different classes
+
+7) no you cannot assign a variable of a base class to another variable of a dervied class because the derived class has functionallity that the base does not.
+
+8) when you want the derived method to replace the base method you use the new keyword 
+
+9) Virtual methods allow subclasses of the type to override the method, declared as virtual in the base class. to call
+differnt versions of the same method.
+
+10) Override, in C#, is a keyword used to delclare another implementation of a virtual method.. member that is defined 
+in a base class with the definition of that member in the derived class
+
+11) C# extension method is a static method of a static class, where the -you use the "this" modifier and apply it to the first parameter in a method. 
+The type of the first parameter will be the type that is extended.
+
+12)using extension method you can extend an existing type with additional static methods.
+Extension methods are only in scope when you explicitly import the namespace into your source code with a using directive.
+
+13) The Liskov Substitution Principle says that the object of a derived class should be able to replace
+ an object of the base class without bringing any errors in the system or modifying the behavior of the base class

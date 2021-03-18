@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ethan\\MSSA2021\\CSharp\\EX6Arrays\\EX6Arrays.csproj": {}
+    "C:\\Users\\ethan\\MSSA2021\\ISTA220\\Exercises\\EX6Arrays\\EX6Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ethan\\MSSA2021\\CSharp\\EX6Arrays\\EX6Arrays.csproj": {
+    "C:\\Users\\ethan\\MSSA2021\\ISTA220\\Exercises\\EX6Arrays\\EX6Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ethan\\MSSA2021\\CSharp\\EX6Arrays\\EX6Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\ethan\\MSSA2021\\ISTA220\\Exercises\\EX6Arrays\\EX6Arrays.csproj",
         "projectName": "EX6Arrays",
-        "projectPath": "C:\\Users\\ethan\\MSSA2021\\CSharp\\EX6Arrays\\EX6Arrays.csproj",
+        "projectPath": "C:\\Users\\ethan\\MSSA2021\\ISTA220\\Exercises\\EX6Arrays\\EX6Arrays.csproj",
         "packagesPath": "C:\\Users\\ethan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ethan\\MSSA2021\\CSharp\\EX6Arrays\\obj\\",
+        "outputPath": "C:\\Users\\ethan\\MSSA2021\\ISTA220\\Exercises\\EX6Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ethan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

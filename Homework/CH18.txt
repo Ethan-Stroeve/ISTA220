@@ -1,0 +1,40 @@
+1) You are building a help ticket system. You want to ensure that the older the ticket, the sooner it will
+be handled by the team. For example, a ticket submitted a week ago has a higher priority than a
+ticked just submitted. What kind of data structure would you use, and why?
+
+Queue<T> First in First out
+
+2) You are building a tracking system for seasonal agricultural farm labor. Te labor requirements vary
+widely, depending on the season. Your requirement is that the newest hires are terminated first, and
+that our more experienced hires are kept longer. What kind of data structure would you use, and why?
+ 
+stack<T> last in first out
+
+3) You are building a transaction database. Your requirement is that the database adds data very quickly,
+and that deletions, updates, and searches happen infrequently. In other words, data is typically added
+in the order in which the transaction occurs. What kind of data structure would you use, and why?
+
+List<T> easy to add data
+
+4) You are building an analytical database. Your requirement is that the database handle queries very
+quickly, but that the data never changes, i.e., there are no inserts, deletions, or updates. What kind
+of data structure would you use, and why? 
+
+Hashset<T> best perfomance
+
+5) You are building a personnel directory, where searched are performed by last name, first name, middle
+name. What kind of data structure would you use, and why?
+ 
+Dictionary<TKey, TValue> to search by names
+
+6) You are building a username/password database. Your requirement is that updates happen frequently
+(when users change their passwords) and that searches (to authenticate users) happenb extremely
+quickly. What kind of data structure would you use, and why? 
+
+Dictionary<TKey, TValue>
+
+7) A lambda expression is an expression that returns a method. we would use lambda expression when we could be writing 
+methods for different value types and to reduce code redundancy.
+Id set = Id.Find(i => i.Num ==10)
+
+8) lambda expression is a better syntax version of anonymous method.

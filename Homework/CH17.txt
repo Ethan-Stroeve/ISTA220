@@ -1,0 +1,28 @@
+1) a type parameter specify the types of objects on which they operate.
+
+2) a type parameter creates a new class when compiled but has same functionality. 
+
+3) a generic class can have any number of type parameters.
+
+4) A generic class when given a new type parameter causes the compiler to generate a whole new class that has the 
+functionality defined in the generic class. A generalized class can take differnet parameters that can be cast to
+different types.
+
+5) A constraint allows you to use constraints to restrict client code to specify certain types while instantiating 
+generic types. you specify a constraint with the where keyword EX: where T : IPrintable
+
+6) a generic method is a way to define genralized methods that are type safe and do not need casting.
+you define a generic method using type parameter syntax EX: static void name<T>(ref T first, ref T second)
+
+7) a generic type interface when invariant means that you cannot assign the object type to a refernce type
+
+8) a generic type interface when covariant means you can use a derived class where a base class is expected 
+(do not need strict type safety when using out keyword) 
+
+9) Yes covariance works with reference types but it does not work with value.
+
+10) a generic type interface that is contravariant means that you can use generic interface to refernce an object 
+type through a reference of another type as long as the first type derives form the second.
+
+
+Two PDF(or img file) uml class and uml sequence diagram

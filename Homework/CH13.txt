@@ -1,0 +1,30 @@
+1) An Interface does not contain any code or data; it just specifies the methods and properties that a class that inherits
+from the interface must provide.
+
+2) you define an interface in a similar way that you define a class, using the keyword interface followed by the name you want to give it
+interface example{}
+
+3) an interface cannot contain fields or variables but it can have properties.
+
+4) interface Iexample{string methodGoesHere(); } 
+
+5) Yes you can instantiate an object through an interface by having a variable defined as a interface that the 
+object class implements.
+
+6) no you cannot have a direct reference to an interface.
+
+7) Yes an object or class can inherit multiple interfaces (seperate with comma)
+
+8) to explicitly implement a new interface do the interfacename.Membername
+
+9) the restrictions of an interface are that you cannot define any fields, constructors, destructor, cannot specify an access
+modifer for any method, nest any types and cannot inherit from a structure or a class.
+
+10) an abstract class is different from an interface because multiple inheritance is not possible for abstract classes but its 
+for inheritance. Abstract has a constructor, modifiers, methods, fields, constants etc but interface does not.
+
+11) an abstract method is similar to a virtual method but cannot contain a body, a derived class must override this method.
+
+12) a sealed class is a class that cannot be used as a base class.
+
+13) a sealed method cannot be overriden by a derived class.

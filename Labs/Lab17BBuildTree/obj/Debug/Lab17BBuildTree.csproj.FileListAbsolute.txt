@@ -1,0 +1,10 @@
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab17BBuildTree\bin\Debug\Lab17BBuildTree.exe.config
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab17BBuildTree\bin\Debug\Lab17BBuildTree.exe
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab17BBuildTree\bin\Debug\Lab17BBuildTree.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab17BBuildTree\bin\Debug\Lab17BinaryTree.dll
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab17BBuildTree\bin\Debug\Lab17BinaryTree.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab17BBuildTree\obj\Debug\Lab17BBuildTree.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab17BBuildTree\obj\Debug\Lab17BBuildTree.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab17BBuildTree\obj\Debug\Lab17BBuildTree.csproj.CopyComplete
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab17BBuildTree\obj\Debug\Lab17BBuildTree.exe
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab17BBuildTree\obj\Debug\Lab17BBuildTree.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "z7h7l1GNMQVp1FVfHVlk+Jy/cbO+p6DvgtPvP6qCA2VBT4T0Shc7aJwwoBIjIW9cVnpgDzjdyjlnkF+5tsL2WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ethan\\MSSA2021\\ISTA220\\Exercises\\Ex8Bisection\\Ex8Bisection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ethan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\ethan\\.nuget\\packages\\system.runtime.extensions\\4.3.1\\system.runtime.extensions.4.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

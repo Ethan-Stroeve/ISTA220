@@ -1,0 +1,13 @@
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Ex8Bisection\obj\Debug\netcoreapp3.1\Ex8Bisection.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Ex8Bisection\obj\Debug\netcoreapp3.1\Ex8Bisection.AssemblyInfoInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Ex8Bisection\obj\Debug\netcoreapp3.1\Ex8Bisection.AssemblyInfo.cs
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Ex8Bisection\obj\Debug\netcoreapp3.1\Ex8Bisection.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Ex8Bisection\bin\Debug\netcoreapp3.1\Ex8Bisection.exe
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Ex8Bisection\bin\Debug\netcoreapp3.1\Ex8Bisection.deps.json
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Ex8Bisection\bin\Debug\netcoreapp3.1\Ex8Bisection.runtimeconfig.json
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Ex8Bisection\bin\Debug\netcoreapp3.1\Ex8Bisection.runtimeconfig.dev.json
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Ex8Bisection\bin\Debug\netcoreapp3.1\Ex8Bisection.dll
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Ex8Bisection\bin\Debug\netcoreapp3.1\Ex8Bisection.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Ex8Bisection\obj\Debug\netcoreapp3.1\Ex8Bisection.dll
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Ex8Bisection\obj\Debug\netcoreapp3.1\Ex8Bisection.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\Ex8Bisection\obj\Debug\netcoreapp3.1\Ex8Bisection.genruntimeconfig.cache
