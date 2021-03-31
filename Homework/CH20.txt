@@ -1,0 +1,24 @@
+1) A delegate is a reference to a method(delegate processing to the refernced method) acts like pointer but type safe
+
+2) to decleare a delegate you can assign a refernce to a method Exp p = new(); calcDelegate = p.calcDelegate
+[access modifier] delegate [return type] [delegate name]([parameters])
+when assining a refence to a method the method will not run, notice how it does not include ().
+a func delegate is a delegate that returns a value(lambda expression) a delegate canm also be passed as a parameter.
+
+3) to create a instancce of a delegate you need to first declare a delegate and then you use the access modifier, type and 
+use a name for the delegate. you can use the += compound assignment operator to add a method to a delagte 
+
+4) to invoke a method that has been added to a delagte you call the delgate by name as if it were a method
+
+5) Events is a way to define and trap significant actions and arrange for a delegate to be called to handle the situation
+We have events so our code can be interactive(user inputs) and responsive
+
+6) Events are declared in a class intended to act as a event source. The syntax is event delegateTypeName eventName
+
+7) To subscribe to a event you use the += operator and -= to unsubscribe
+
+8) To raise a event you call it like a method You can delcare code that raises an event by making a mehtod and 
+using a if statement to check to see if the event is null
+
+9) When a event is triggered that has a delegate attched to it all methods that are subscribed to the delegate will run
+until the trigger of the event stops or all the code runs.

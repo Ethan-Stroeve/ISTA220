@@ -1,0 +1,13 @@
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX10NumConversion\bin\Debug\netcoreapp3.1\EX10NumConversion.exe
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX10NumConversion\bin\Debug\netcoreapp3.1\EX10NumConversion.deps.json
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX10NumConversion\bin\Debug\netcoreapp3.1\EX10NumConversion.runtimeconfig.json
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX10NumConversion\bin\Debug\netcoreapp3.1\EX10NumConversion.runtimeconfig.dev.json
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX10NumConversion\bin\Debug\netcoreapp3.1\EX10NumConversion.dll
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX10NumConversion\bin\Debug\netcoreapp3.1\EX10NumConversion.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX10NumConversion\obj\Debug\netcoreapp3.1\EX10NumConversion.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX10NumConversion\obj\Debug\netcoreapp3.1\EX10NumConversion.AssemblyInfoInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX10NumConversion\obj\Debug\netcoreapp3.1\EX10NumConversion.AssemblyInfo.cs
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX10NumConversion\obj\Debug\netcoreapp3.1\EX10NumConversion.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX10NumConversion\obj\Debug\netcoreapp3.1\EX10NumConversion.dll
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX10NumConversion\obj\Debug\netcoreapp3.1\EX10NumConversion.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX10NumConversion\obj\Debug\netcoreapp3.1\EX10NumConversion.genruntimeconfig.cache

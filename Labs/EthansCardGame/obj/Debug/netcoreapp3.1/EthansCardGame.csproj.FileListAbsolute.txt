@@ -1,0 +1,13 @@
+C:\Users\ethan\MSSA2021\ISTA220\Labs\EthansCardGame\bin\Debug\netcoreapp3.1\EthansCardGame.exe
+C:\Users\ethan\MSSA2021\ISTA220\Labs\EthansCardGame\bin\Debug\netcoreapp3.1\EthansCardGame.deps.json
+C:\Users\ethan\MSSA2021\ISTA220\Labs\EthansCardGame\bin\Debug\netcoreapp3.1\EthansCardGame.runtimeconfig.json
+C:\Users\ethan\MSSA2021\ISTA220\Labs\EthansCardGame\bin\Debug\netcoreapp3.1\EthansCardGame.runtimeconfig.dev.json
+C:\Users\ethan\MSSA2021\ISTA220\Labs\EthansCardGame\bin\Debug\netcoreapp3.1\EthansCardGame.dll
+C:\Users\ethan\MSSA2021\ISTA220\Labs\EthansCardGame\bin\Debug\netcoreapp3.1\EthansCardGame.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Labs\EthansCardGame\obj\Debug\netcoreapp3.1\EthansCardGame.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\ISTA220\Labs\EthansCardGame\obj\Debug\netcoreapp3.1\EthansCardGame.AssemblyInfoInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Labs\EthansCardGame\obj\Debug\netcoreapp3.1\EthansCardGame.AssemblyInfo.cs
+C:\Users\ethan\MSSA2021\ISTA220\Labs\EthansCardGame\obj\Debug\netcoreapp3.1\EthansCardGame.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Labs\EthansCardGame\obj\Debug\netcoreapp3.1\EthansCardGame.dll
+C:\Users\ethan\MSSA2021\ISTA220\Labs\EthansCardGame\obj\Debug\netcoreapp3.1\EthansCardGame.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Labs\EthansCardGame\obj\Debug\netcoreapp3.1\EthansCardGame.genruntimeconfig.cache

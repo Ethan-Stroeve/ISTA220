@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 
@@ -17,6 +18,8 @@ namespace EX09Hashing
 public class AuthenticateSystem
 {
     public static Dictionary<string, byte[]> userCredentials = new Dictionary<string, byte[]>();
+
+    public static List<string> PasswordDecoded = new List<string>();
     public static string userName { get; set; }
     public static string password { get; set; }
     public static byte[] hashedBytes { get; set; }
@@ -74,6 +77,7 @@ public class AuthenticateSystem
         printUI2();
         if (!userCredentials.ContainsKey(userName))
         {
+            PasswordDecoded.Add(password);
             HashPassword();
             userCredentials.Add(userName, hashedBytes);
         }
@@ -114,23 +118,21 @@ public class AuthenticateSystem
     public static string HashPassword()
     {
         using var sha256 = SHA256.Create();
-        // Send a sample text to hash.  
         hashedBytes = sha256.ComputeHash(Encoding.UTF8.GetBytes(password));
-        // Get the hashed string.  
         return BitConverter.ToString(hashedBytes).Replace("-", "").ToLower();
-
     }
 
     public static void PrintUsers()
     {
         Console.WriteLine("USERNAME : PASSWORD : HASHCODE");
-        foreach (var item in userCredentials)
+        string user = "";
+        string HasPassword = "";
+        for (int i = 0; i < userCredentials.Count; i++)
         {
-            Console.WriteLine($"{userName}: {password}: {HashPassword()}");
+            user = userCredentials.ElementAt(i).Key;
+            HasPassword = BitConverter.ToString(userCredentials.ElementAt(i).Value).Replace("-", "").ToLower();
+            Console.WriteLine($"{user}: {PasswordDecoded[i]}: {HasPassword} ");
         }
         Console.ReadKey();
     }
-
-
-
 }

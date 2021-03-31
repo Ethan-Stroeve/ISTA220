@@ -1,0 +1,13 @@
+C:\Users\ethan\MSSA2021\ISTA220\Labs\DelLab\bin\Debug\netcoreapp3.1\DelLab.exe
+C:\Users\ethan\MSSA2021\ISTA220\Labs\DelLab\bin\Debug\netcoreapp3.1\DelLab.deps.json
+C:\Users\ethan\MSSA2021\ISTA220\Labs\DelLab\bin\Debug\netcoreapp3.1\DelLab.runtimeconfig.json
+C:\Users\ethan\MSSA2021\ISTA220\Labs\DelLab\bin\Debug\netcoreapp3.1\DelLab.runtimeconfig.dev.json
+C:\Users\ethan\MSSA2021\ISTA220\Labs\DelLab\bin\Debug\netcoreapp3.1\DelLab.dll
+C:\Users\ethan\MSSA2021\ISTA220\Labs\DelLab\bin\Debug\netcoreapp3.1\DelLab.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Labs\DelLab\obj\Debug\netcoreapp3.1\DelLab.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\ISTA220\Labs\DelLab\obj\Debug\netcoreapp3.1\DelLab.AssemblyInfoInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Labs\DelLab\obj\Debug\netcoreapp3.1\DelLab.AssemblyInfo.cs
+C:\Users\ethan\MSSA2021\ISTA220\Labs\DelLab\obj\Debug\netcoreapp3.1\DelLab.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Labs\DelLab\obj\Debug\netcoreapp3.1\DelLab.dll
+C:\Users\ethan\MSSA2021\ISTA220\Labs\DelLab\obj\Debug\netcoreapp3.1\DelLab.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Labs\DelLab\obj\Debug\netcoreapp3.1\DelLab.genruntimeconfig.cache

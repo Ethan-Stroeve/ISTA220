@@ -1,0 +1,22 @@
+1) enumerable collection is a collection that implements the Systems.Collections.IEnumerable interface
+(allows you to step through a collection)
+
+2) Ienumerable contains the method Ienumerator GetEnumerator();
+
+3) IEnumerator interface contains the property and methods object Current{get;} bool MoveNext(); void Reset(); 
+
+4) MoveNext() moves to the next item in the list, will return true if there is an item otherwise false
+
+5) Reset();  returns the pointer back before the first item in the list
+
+6) Ienumerator and IEnumerable are not type safe but have options in the framework class library to be type safe.
+
+7) Recursive methods tend not to retain state when used in data structures like binary trees because
+they do not maintain state information between method calls in an easily accessible manner, so the data is 
+typically put into a more amenable structure like queue.
+
+8) example of how to define an inemerator public class Tree<TItem> : IEnumerable<TItem>{ IEnumerable<Item> GetEnumerator(){} }
+
+9) an iterator is a block of code that yields an ordered sequence of values. (descripotion of enumeration sequence)
+
+10) The yield keyword indicates the value that should be returned by each iteration.
