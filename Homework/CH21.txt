@@ -1,0 +1,36 @@
+1) The main difference between LINQ and SQL is that LINQ is a Microsoft .NET framework component, which adds native data 
+querying capabilities to .NET languages, while SQL is a standard language to store and manage data in RDBMS.
+
+2) LINQ requires the data to be stored in a data structure that implements the IEnumerable or IEnumerable<T> interface.
+
+3) The LINQ Select() methods lives in the System.linq namespace as its an extension method of the eEnumerable class.
+
+4) IEnumerable<string> customerFirstNames = customers.Select(cust => cust.FirstName);
+this line of code uses the select method of the customers array to generate an IEnumerable<string> object named CustomerFirstName
+
+5)IEnumerable<string> usCompanies = addresses.Where(addr => String.Equals(addr.Country, "United States")).Select(usComp => usComp.CompanyName);
+This example uses a lambda expression to return all rows where the country field matches the string "United States". The where method returns an
+enumerable collection of rows containing every field from the orignal collection. Thhe select method is then applied to these rows to project only the
+companyName field returning another enumerable collection of string objects.
+
+6) IEnumerable<string> companyNames = addresses.OrderBy(addr => addr.CompanyName).Select(comp => comp.CompanyName);
+This method identifies the expression that you want to use to sort the data, code displays the companies in the address table in alphabetical order. 
+
+7) var companiesGroupedByCountry = addresses.GroupBy(addrs => addrs.Country);
+This code groups the companies in the address array by country
+
+8) int numberOfCountries = addresses.Select(addr => addr.Country).Distinct().Count();
+this code returns the number of distinct countries that the companies have addresses in.
+
+9) var companiesAndCustomers =
+customers.Select(c =>
+new { c.FirstName, c.LastName, c.CompanyName }).Join(addresses, custs =>
+custs.CompanyName, addrs => addrs.CompanyName, (custs, addrs) =>
+new {custs.FirstName, custs.LastName, addrs.Country });
+
+This code joins the enumerable collection containing the FirstName, LastName, and company name fields from the customers array with rows in the address
+array. the two sets of data are joined where the value in the companyName field in the customers array mathces the value in the companyName field
+in the address array. the result set includes rows of firstname, lastname and the country.
+
+10) deffered evaluation is when you modify data in the time between defining the collection and iterating through the collection. static, cached collection
+is when you force an evalution when the data when it is defined. This is a copy of the orignal data and will not change.

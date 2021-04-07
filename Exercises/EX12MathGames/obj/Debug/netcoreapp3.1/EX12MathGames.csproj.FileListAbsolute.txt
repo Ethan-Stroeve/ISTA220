@@ -1,0 +1,13 @@
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX12MathGames\bin\Debug\netcoreapp3.1\EX12MathGames.exe
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX12MathGames\bin\Debug\netcoreapp3.1\EX12MathGames.deps.json
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX12MathGames\bin\Debug\netcoreapp3.1\EX12MathGames.runtimeconfig.json
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX12MathGames\bin\Debug\netcoreapp3.1\EX12MathGames.runtimeconfig.dev.json
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX12MathGames\bin\Debug\netcoreapp3.1\EX12MathGames.dll
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX12MathGames\bin\Debug\netcoreapp3.1\EX12MathGames.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX12MathGames\obj\Debug\netcoreapp3.1\EX12MathGames.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX12MathGames\obj\Debug\netcoreapp3.1\EX12MathGames.AssemblyInfoInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX12MathGames\obj\Debug\netcoreapp3.1\EX12MathGames.AssemblyInfo.cs
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX12MathGames\obj\Debug\netcoreapp3.1\EX12MathGames.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX12MathGames\obj\Debug\netcoreapp3.1\EX12MathGames.dll
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX12MathGames\obj\Debug\netcoreapp3.1\EX12MathGames.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Exercises\EX12MathGames\obj\Debug\netcoreapp3.1\EX12MathGames.genruntimeconfig.cache

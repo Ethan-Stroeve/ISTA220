@@ -1,0 +1,13 @@
+C:\Users\ethan\source\repos\Ex11Vector\obj\Debug\netcoreapp3.1\Ex11Vector.csprojAssemblyReference.cache
+C:\Users\ethan\source\repos\Ex11Vector\obj\Debug\netcoreapp3.1\Ex11Vector.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Ex11Vector\obj\Debug\netcoreapp3.1\Ex11Vector.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Ex11Vector\obj\Debug\netcoreapp3.1\Ex11Vector.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Ex11Vector\bin\Debug\netcoreapp3.1\Ex11Vector.exe
+C:\Users\ethan\source\repos\Ex11Vector\bin\Debug\netcoreapp3.1\Ex11Vector.deps.json
+C:\Users\ethan\source\repos\Ex11Vector\bin\Debug\netcoreapp3.1\Ex11Vector.runtimeconfig.json
+C:\Users\ethan\source\repos\Ex11Vector\bin\Debug\netcoreapp3.1\Ex11Vector.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\Ex11Vector\bin\Debug\netcoreapp3.1\Ex11Vector.dll
+C:\Users\ethan\source\repos\Ex11Vector\bin\Debug\netcoreapp3.1\Ex11Vector.pdb
+C:\Users\ethan\source\repos\Ex11Vector\obj\Debug\netcoreapp3.1\Ex11Vector.dll
+C:\Users\ethan\source\repos\Ex11Vector\obj\Debug\netcoreapp3.1\Ex11Vector.pdb
+C:\Users\ethan\source\repos\Ex11Vector\obj\Debug\netcoreapp3.1\Ex11Vector.genruntimeconfig.cache

@@ -1,0 +1,2 @@
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab21QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab21QueryBinaryTree\QueryBinaryTree\obj\Debug\QueryBinaryTree.csproj.CoreCompileInputs.cache

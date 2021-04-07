@@ -1,0 +1,13 @@
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab21Linq_queries\bin\Debug\netcoreapp3.1\Lab21Linq_queries.exe
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab21Linq_queries\bin\Debug\netcoreapp3.1\Lab21Linq_queries.deps.json
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab21Linq_queries\bin\Debug\netcoreapp3.1\Lab21Linq_queries.runtimeconfig.json
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab21Linq_queries\bin\Debug\netcoreapp3.1\Lab21Linq_queries.runtimeconfig.dev.json
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab21Linq_queries\bin\Debug\netcoreapp3.1\Lab21Linq_queries.dll
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab21Linq_queries\bin\Debug\netcoreapp3.1\Lab21Linq_queries.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab21Linq_queries\obj\Debug\netcoreapp3.1\Lab21Linq_queries.csprojAssemblyReference.cache
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab21Linq_queries\obj\Debug\netcoreapp3.1\Lab21Linq_queries.AssemblyInfoInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab21Linq_queries\obj\Debug\netcoreapp3.1\Lab21Linq_queries.AssemblyInfo.cs
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab21Linq_queries\obj\Debug\netcoreapp3.1\Lab21Linq_queries.csproj.CoreCompileInputs.cache
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab21Linq_queries\obj\Debug\netcoreapp3.1\Lab21Linq_queries.dll
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab21Linq_queries\obj\Debug\netcoreapp3.1\Lab21Linq_queries.pdb
+C:\Users\ethan\MSSA2021\ISTA220\Labs\Lab21Linq_queries\obj\Debug\netcoreapp3.1\Lab21Linq_queries.genruntimeconfig.cache
